@@ -71,7 +71,7 @@ Overall, visualizing this data allows you to gain a better understanding of the 
 ## Modeling for MobileNetV3Small ## 
 MobileNetV3Small is a type of convolutional neural network architecture that is designed for mobile and embedded devices with limited computational resources. If you want to build a model using MobileNetV3Small, there are a few steps you can follow:
 
-** Choose a framework:** There are several deep learning frameworks that support MobileNetV3Small, such as TensorFlow, PyTorch, and Keras. Choose a framework that you are comfortable with and that supports MobileNetV3Small.
+**Choose a framework:** There are several deep learning frameworks that support MobileNetV3Small, such as TensorFlow, PyTorch, and Keras. Choose a framework that you are comfortable with and that supports MobileNetV3Small.
 
 **Preprocess your data:** Preprocessing your data is an important step in any machine learning project. Ensure that your data is in the correct format for MobileNetV3Small, which is typically a series of image tensors with a specific size and number of channels.
 
