@@ -54,6 +54,15 @@ from keras.models import Sequential
 | ------------- | ------------- |
 | Leaves infected with the apple scab fungus usually fall from trees in autumn or early winter. The fungus continues to live within the leaves during winter, forming small, flask-shaped bodies, in which spores (ascospores) develop. These ascospores mature in spring and are forcibly ejected during spring rains  | The leaves are simple, oval in shape, have small serrations along the margin, and are arranged alternately along the branches. A typical leaf is 2 – 5 inches long, 1.5 – 2.5 inches wide, and has an acuminate tip (Petrides 1972). The twigs, buds, and undersides of the leaves usually have white pubescence  |
 
+
+## Data Preprocessing and Visualization ## 
+
+bad_images = []
+    good_ext = ['jpg', 'jpeg', 'png', 'tiff']
+    filepaths = []
+    labels = []
+    classes = sorted(os.listdir(sdir))
+    
 **Confusion Marix**
 -----------------------
 ![download](https://user-images.githubusercontent.com/90987160/221009170-e2d433c7-0ef5-4787-a7a3-1be49287babd.png)
