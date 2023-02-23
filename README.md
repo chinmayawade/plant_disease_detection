@@ -26,3 +26,18 @@ Overall, ResMLP can be a powerful tool for plant disease detection, but the qual
 | Scab Leaves  | Healthy Leaves |
 | ------------- | ------------- |
 | Leaves infected with the apple scab fungus usually fall from trees in autumn or early winter. The fungus continues to live within the leaves during winter, forming small, flask-shaped bodies, in which spores (ascospores) develop. These ascospores mature in spring and are forcibly ejected during spring rains  | The leaves are simple, oval in shape, have small serrations along the margin, and are arranged alternately along the branches. A typical leaf is 2 – 5 inches long, 1.5 – 2.5 inches wide, and has an acuminate tip (Petrides 1972). The twigs, buds, and undersides of the leaves usually have white pubescence  |
+
+
+
+**Classification Report:**
+----------------------
+                   precision    recall  f1-score   support
+
+APPLE ROT LEAVES     0.3750    0.2727    0.3158        11
+  HEALTHY LEAVES     0.2727    0.7500    0.4000         4
+     LEAF BLOTCH     0.4286    0.5455    0.4800        11
+     SCAB LEAVES     0.5556    0.3125    0.4000        16
+
+        accuracy                         0.4048        42
+       macro avg     0.4080    0.4702    0.3989        42
+    weighted avg     0.4481    0.4048    0.3989        42
