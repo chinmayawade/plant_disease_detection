@@ -14,6 +14,16 @@ ResMLP, also known as the Residual Multi-layer Perceptron, is a neural network a
 
 Overall, ResMLP can be a powerful tool for plant disease detection, but the quality and size of the dataset, as well as the effectiveness of the data preprocessing and augmentation, can have a significant impact on the performance of the model.
 
+## Key Points ## 
+----------------------------
+1. Importing Libraries and Dataset
+2. Data Preprocessing and Visualization
+3. Data Augmentation
+4. Modeling for MobileNetV3Small
+5. Modeling using ResMLP
+6. Training using Deep Learning Neural Network
+7. Plotting Results
+8. Confusion Matrix
 
 ## Collected Various Dataset Leaves
 
