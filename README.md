@@ -56,12 +56,17 @@ from keras.models import Sequential
 
 
 ## Data Preprocessing and Visualization ## 
+### Preprocessed the data based on Image Quality, File Extentions such as .png,.jpeg,.jpg etc labelled the data and sorted it as per the classes*
+Imagine a large table filled with rows of data representing thousands of images. Each row contains information about a single image, such as its file name, file extension, file path, and labels or classes assigned to it.
 
-bad_images = []
-    good_ext = ['jpg', 'jpeg', 'png', 'tiff']
-    filepaths = []
-    labels = []
-    classes = sorted(os.listdir(sdir))
+As you scroll through the table, you notice that some of the images have *bad quality* or resolution. They may appear *blurry or pixelated, making it difficult to make out the details.* Other images may have *incorrect file extensions or file paths*, which can make it challenging to locate and access them.
+
+However, the *labels* or classes assigned to each image provide useful information about the content of the image. For example, an image might be labeled as "cat" or "dog" if it contains a picture of a cat or a dog. These labels allow you to quickly sort and filter the images based on their content.
+
+You also notice that some images have multiple *labels or classes* assigned to them. For instance, an image might be labeled as both "cat" and "indoor" if it shows a cat inside a house. This additional information can be helpful in training machine learning models to recognize and categorize different types of images.
+
+Overall, visualizing this data allows you to gain a better understanding of the images you are working with and the information associated with them. By examining the image quality, file information, and labels or classes, you can make more informed decisions about how to organize and utilize the images in your project.
+
     
 **Confusion Marix**
 -----------------------
