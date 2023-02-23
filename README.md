@@ -20,3 +20,9 @@ Overall, ResMLP can be a powerful tool for plant disease detection, but the qual
 | Blotch Leaves  |  Rot Leaves |
 | ------------- | ------------- |
 | Necrotic leaf blotch is caused by the rapid synthesis of gibberellins triggered by environmental factors. Treating trees with zinc-containing fungicides (e.g., Ziram) or foliar sprays containing zinc nutrients can decrease the severity of necrotic leaf blotch.  |  Black rot is caused by the fungus Diplodia seriata (syn Botryosphaeria obtusa). The fungus can infect dead tissue as well as living trunks, branches, leaves and fruits. The black rot fungi survive Minnesota winters in branch cankers and mummified fruit (shriveled and dried fruit) attached to the tree.  |
+
+
+
+| Scab Leaves  | Healthy Leaves |
+| ------------- | ------------- |
+| Leaves infected with the apple scab fungus usually fall from trees in autumn or early winter. The fungus continues to live within the leaves during winter, forming small, flask-shaped bodies, in which spores (ascospores) develop. These ascospores mature in spring and are forcibly ejected during spring rains  | The leaves are simple, oval in shape, have small serrations along the margin, and are arranged alternately along the branches. A typical leaf is 2 – 5 inches long, 1.5 – 2.5 inches wide, and has an acuminate tip (Petrides 1972). The twigs, buds, and undersides of the leaves usually have white pubescence  |
