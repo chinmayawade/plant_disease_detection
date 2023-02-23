@@ -56,7 +56,7 @@ from keras.models import Sequential
 
 
 ## Data Preprocessing and Visualization ## 
-### Preprocessed the data based on Image Quality, File Extentions such as .png,.jpeg,.jpg etc labelled the data and sorted it as per the classes*
+### Preprocessed the data based on Image Quality, File Extentions such as .png,jpeg,jpg etc labelled the data and sorted it as per the classes
 Imagine a large table filled with rows of data representing thousands of images. Each row contains information about a single image, such as its file name, file extension, file path, and labels or classes assigned to it.
 
 As you scroll through the table, you notice that some of the images have *bad quality* or resolution. They may appear *blurry or pixelated, making it difficult to make out the details.* Other images may have *incorrect file extensions or file paths*, which can make it challenging to locate and access them.
