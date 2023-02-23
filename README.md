@@ -67,6 +67,24 @@ You also notice that some images have multiple *labels or classes* assigned to t
 
 Overall, visualizing this data allows you to gain a better understanding of the images you are working with and the information associated with them. By examining the image quality, file information, and labels or classes, you can make more informed decisions about how to organize and utilize the images in your project.
 
+
+## Modeling for MobileNetV3Small ## 
+MobileNetV3Small is a type of convolutional neural network architecture that is designed for mobile and embedded devices with limited computational resources. If you want to build a model using MobileNetV3Small, there are a few steps you can follow:
+
+** Choose a framework:** There are several deep learning frameworks that support MobileNetV3Small, such as TensorFlow, PyTorch, and Keras. Choose a framework that you are comfortable with and that supports MobileNetV3Small.
+
+**Preprocess your data:** Preprocessing your data is an important step in any machine learning project. Ensure that your data is in the correct format for MobileNetV3Small, which is typically a series of image tensors with a specific size and number of channels.
+
+**Build the model:** MobileNetV3Small is a pre-trained model, meaning it has already been trained on a large dataset. You can either use the pre-trained weights or fine-tune the model for your specific use case. You will need to add the appropriate number of output layers for your particular classification problem.
+
+**Train the model:** Train your model on your training data. If you are fine-tuning a pre-trained model, you may not need to train for as many epochs as you would with a model trained from scratch.
+
+Evaluate the model: Once you have trained your model, evaluate its performance on your validation set. If the model is not performing well, you may need to adjust the hyperparameters or make changes to the model architecture.
+
+**Deploy the model:** Once you are satisfied with the model's performance, you can deploy it to your mobile or embedded device. Be sure to optimize the model for inference on your specific device to ensure optimal performance.
+
+Overall, MobileNetV3Small is a powerful architecture that can be used to build machine learning models for mobile and embedded devices. By following these steps, you can build and deploy your own model using MobileNetV3Small.
+
     
 **Confusion Marix**
 -----------------------
