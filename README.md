@@ -29,7 +29,7 @@ Overall, ResMLP can be a powerful tool for plant disease detection, but the qual
 
 **Confusion Marix**
 -----------------------
-![Alt text](/Project Images/download.png "Optional title")
+![Alt text](https://github.com/chinmayawade/plant_disease_detection/main/Project Images/download.png?raw=true)
 
 **Classification Report:**
 ----------------------    
