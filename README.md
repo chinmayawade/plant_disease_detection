@@ -1,5 +1,5 @@
-# plant_disease_detection
-Plant Disease Detection using resMLP Feed-Forward Networks for Image Classification.
+# Plant Disease Detection using ResMLP Feedforward Networks for Image Classification with Data-Efficient Training
+
 ResMLP, also known as the Residual Multi-layer Perceptron, is a neural network architecture that has shown promising results in various computer vision tasks. To use ResMLP for plant disease detection, we can follow the following steps:
 
 **Collect and preprocess the dataset:**  Collect a large dataset of images of healthy and diseased plants, and preprocess them by resizing, cropping, and normalizing the images.
