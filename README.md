@@ -37,8 +37,6 @@ Overall, ResMLP can be a powerful tool for plant disease detection, but the qual
 | HEALTHY LEAVES  | 0.2727  |0.7500  |  0.4000  | 4  |
 | LEAF BLOTCH | 0.4286  | 0.5455 |0.4800  | 11  |
 | SCAB LEAVES  |0.5556  | 0.3125 | 0.4000  | 16  |
-
-
 | Accuracy  |  |  | 0.4048    | 42  |
 |    macro avg  |  0.4080  | 0.4702  |  0.3989  | 42  |
 | weighted avg | 0.4481  | 0.4048 |0.3989  | 42  |
