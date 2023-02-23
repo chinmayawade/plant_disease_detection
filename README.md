@@ -13,3 +13,10 @@ ResMLP, also known as the Residual Multi-layer Perceptron, is a neural network a
 **Evaluate the model:** Finally, evaluate the performance of the trained model on the testing set by calculating metrics such as accuracy, precision, recall, and F1-score.
 
 Overall, ResMLP can be a powerful tool for plant disease detection, but the quality and size of the dataset, as well as the effectiveness of the data preprocessing and augmentation, can have a significant impact on the performance of the model.
+
+
+## Collected Various Dataset Leaves
+
+| Blotch Leaves  |  Rot Leaves |
+| ------------- | ------------- |
+| Necrotic leaf blotch is caused by the rapid synthesis of gibberellins triggered by environmental factors. Treating trees with zinc-containing fungicides (e.g., Ziram) or foliar sprays containing zinc nutrients can decrease the severity of necrotic leaf blotch.  |  Black rot is caused by the fungus Diplodia seriata (syn Botryosphaeria obtusa). The fungus can infect dead tissue as well as living trunks, branches, leaves and fruits. The black rot fungi survive Minnesota winters in branch cankers and mummified fruit (shriveled and dried fruit) attached to the tree.  |
